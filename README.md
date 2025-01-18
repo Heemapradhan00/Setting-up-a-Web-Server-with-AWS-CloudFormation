@@ -52,7 +52,6 @@ Resources:
           FromPort: 80
           ToPort: 80
           CidrIp: 0.0.0.0/0
-![image](https://github.com/user-attachments/assets/6fcc0b4e-5c99-47dd-8aee-b8d576f10dca)
-![image](https://github.com/user-attachments/assets/e84eefce-1933-4a21-abad-2a24eaffb476)
-
+![image](https://github.com/user-attachments/assets/1c0706fa-2208-43ac-8371-936dd9777d9f)
+![image](https://github.com/user-attachments/assets/854ce153-b884-4e52-9605-834d7fc025af)
 
